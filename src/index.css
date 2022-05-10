@@ -4,7 +4,7 @@
 * {
   margin: 0;
   font-family: "Quicksand";
-  color: #333;
+  color: #233005;
 }
 .navbar {
   padding: 20px;
@@ -32,4 +32,23 @@
   max-width: 600px;
   margin: 40px auto;
   padding: 20px;
+}
+.blogPreview {
+  padding:10px 18px;
+  margin: 20px;
+  border-bottom: 1px solid #fafafa;
+}
+.blogPreview:hover {
+  box-shadow: 1px 5px 3px rgba(0, 0, 0 , 0.5);
+}
+.blogPreview h2 {
+  font-size: 18px;
+  color: #4F680A;
+  margin-bottom: 9px;
+}
+.delete{
+  display: grid;
+  color:white;
+  background-color: #f1356d;
+  border-radius: 8px;
 }
