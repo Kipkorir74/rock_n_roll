@@ -1,22 +1,28 @@
 {
-    "blogs":[{
-        "title":"Ants From Up There ",
-        "review":"Black Country, New Road’s second album finds the seven-piece ensemble subtly evolving their experimental post-punk in a way that suggests they are starting to take themselves more seriously. There’s less of a tendency to think that they’ve doffed their cap to the likes of Slint and Shellac on this record, and while I never thought the debut lacked confidence, it feels like this is the record on which they are coming into full bloom.",
-        "artist": "Black Country, New Road ",
-         "id":1
+  "blogs": [
+    {
+      "title": "Ants From Up There ",
+      "review": "Black Country, New Road’s second album finds the seven-piece ensemble subtly evolving their experimental post-punk in a way that suggests they are starting to take themselves more seriously. There’s less of a tendency to think that they’ve doffed their cap to the likes of Slint and Shellac on this record, and while I never thought the debut lacked confidence, it feels like this is the record on which they are coming into full bloom.",
+      "artist": "Black Country, New Road ",
+      "id": 1
     },
     {
-         "title":"Skinty Fia",
-         "review":"A magnificent third album which serves as the crowning point of a career that is, excitingly, still in its infancy. With their third album, Fontaines D.C. have grappled with weightier topics, experimented with more genres, and pushed themselves further than they have in the past. What’s even more impressive is that in doing so they’ve made their best album yet. The album fits perfectly with the mood of the times and it’s apparent that these songs were built with an honest, emotional grit.",
-         "artist":"Fontaines D.C.",
-         "id":2
+      "title": "Skinty Fia",
+      "review": "A magnificent third album which serves as the crowning point of a career that is, excitingly, still in its infancy. With their third album, Fontaines D.C. have grappled with weightier topics, experimented with more genres, and pushed themselves further than they have in the past. What’s even more impressive is that in doing so they’ve made their best album yet. The album fits perfectly with the mood of the times and it’s apparent that these songs were built with an honest, emotional grit.",
+      "artist": "Fontaines D.C.",
+      "id": 2
     },
     {
-        "title":"Dragon New Warm Mountain I Believe in You", 
-        "review":"An abundance of styles gives the potential for a new favourite song every time you listen to this rich album. With Dragon… we glimpse Big Thief’s magic in action, like pressing an ear to the rehearsal room door. It’s a lived experience, open-hearted and spontaneous, that pushes the boundaries of what the four, between them, can create.",
-        "artist":"Big Thief", 
-        "id":3
+      "title": "Dragon New Warm Mountain I Believe in You",
+      "review": "An abundance of styles gives the potential for a new favourite song every time you listen to this rich album. With Dragon… we glimpse Big Thief’s magic in action, like pressing an ear to the rehearsal room door. It’s a lived experience, open-hearted and spontaneous, that pushes the boundaries of what the four, between them, can create.",
+      "artist": "Big Thief",
+      "id": 3
+    },
+    {
+      "title": "A Hero's Death",
+      "review": "With poetry suffusing both lyrics and music, Fontaines DC capture being young in all its excitement and challenges, its confidence and despair: those years where it feels like you’re trying to find a foothold with your hands. It’s not easy, but then what great album, or life, ever is?Rather than succumb to difficult second album syndrome, Fontaines D.C. have emerged frontrunners in an already filed of vital, important young bands. A Hero's Death is a resounding victory.",
+      "artist": "Fontaines D.C",
+      "id": 4
     }
-        
-    ]
+  ]
 }
