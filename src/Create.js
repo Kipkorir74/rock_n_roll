@@ -39,9 +39,10 @@ const Create = () => {
                 <label>Artist/Band:</label>
                 <select value= {artist}
                 onChange={ (e)=>{setArtist(e.target.value)}}>
-                    <option value="Black Country, New Road">Black Country, New Road</option>
-                    <option value="Fontaines D.C">Fontaines D.C</option>
-                    <option value="Big Thief">Big Thief</option>
+                    <option value="Lil Yachty">Lil Yachty</option>
+                    <option value="Gunna">Gunna</option>
+                    <option value="Young Thug">Young Thug</option>
+                    <option value="Lil Durk">Lil Durk</option>
                 </select>
                 {!isPending && <button>Add Review</button>}
                 {isPending && <button disabled>Adding Review...</button>}
